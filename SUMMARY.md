@@ -1,4 +1,21 @@
-# Summary
+# Table of contents
 
-* [Introduction](README.md)
+* [Physics I. Classical Mechanics](README.md)
+* [I. Introduction](i.-introduction.md)
+* [II. 1 Dimensional Kinematics](ii.-1-dimensional-kinematics.md)
+* [III. 2 Dimensional Kinematics](iii.-2-dimensional-kinematics.md)
+* [IV. Projectile Motion](iv.-projectile-motion.md)
+* [V. Forces](v.-forces.md)
+* [VI. Newtons Laws](vi.-newtons-laws.md)
+* [VII. Gravitation](vii.-gravitation.md)
+* [VIII. Work & Energy](viii.-work-and-energy.md)
+* [IX. Center of Mass](ix.-center-of-mass.md)
+* [X. Linear Momentum](x.-linear-momentum.md)
+* [XI. Rotational Motion](xi.-rotational-motion.md)
+* [XII. Rotational Dynamics](xii.-rotational-dynamics.md)
+* [XIII. Angular Momentum](xiii.-angular-momentum.md)
+* [XIV. Statics](xiv.-statics.md)
+* [XV. Fluids](xv.-fluids.md)
+* [XVI. Oscillations](xvi.-oscillations.md)
+* [XVII. Waves](xvii.-waves.md)
 
